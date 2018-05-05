@@ -8,8 +8,9 @@ We got the First Prize with this project whose name is Peace Corps Peace.
 # Peace Corps Peace
 
 Peace Corps Peace is the web application for potential applicants for the Peace Corps.
-
-
+<br/>
+<br/>
+<br/>
 
 ![peace corp peace website](/img/screen_shot_website.png)
 
